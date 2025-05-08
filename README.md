@@ -114,7 +114,7 @@
 ###
 
 ###
-![snake gif](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Krithikgit/Krithikgit/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <!--https://profile-readme-generator.com/--!>
