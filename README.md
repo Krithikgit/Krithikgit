@@ -108,13 +108,13 @@
 
 ###
 ---
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
+###
 
-
-
-
+###
+![snake gif](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.svg)
+###
 
 <!--https://profile-readme-generator.com/--!>
