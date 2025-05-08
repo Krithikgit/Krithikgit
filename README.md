@@ -113,13 +113,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krithikgit&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
 
-###
 
-<img src="https://raw.githubusercontent.com/Krithikgit/Krithikgit/output/snake.svg" alt="Snake animation" />
 
-###
 
 <!--https://profile-readme-generator.com/--!>
